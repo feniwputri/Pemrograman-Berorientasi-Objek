@@ -8,5 +8,5 @@ public static void main(String[] args) {
 }
 /* Nama : Feni Dwi Putri
    NIM : D1041241041
-   Tanggal : 5 Februari 2025
+   Tanggal : 5 Februari 2026
  */
